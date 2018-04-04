@@ -877,3 +877,7 @@ mv "$TEMP_DIR.ipa" "$NEW_FILE"
 rm -rf "$TEMP_DIR"
 
 log "Process complete"
+
+
+
+
